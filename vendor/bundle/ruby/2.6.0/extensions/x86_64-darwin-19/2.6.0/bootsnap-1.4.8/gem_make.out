@@ -1,0 +1,15 @@
+current directory: /Users/k_nami/Documents/rails/markdown_sample/vendor/bundle/ruby/2.6.0/gems/bootsnap-1.4.8/ext/bootsnap
+/Users/k_nami/.rbenv/versions/2.6.6/bin/ruby -I /Users/k_nami/.rbenv/versions/2.6.6/lib/ruby/2.6.0 -r ./siteconf20200820-2060-ue51r9.rb extconf.rb
+creating Makefile
+
+current directory: /Users/k_nami/Documents/rails/markdown_sample/vendor/bundle/ruby/2.6.0/gems/bootsnap-1.4.8/ext/bootsnap
+make "DESTDIR=" clean
+
+current directory: /Users/k_nami/Documents/rails/markdown_sample/vendor/bundle/ruby/2.6.0/gems/bootsnap-1.4.8/ext/bootsnap
+make "DESTDIR="
+compiling bootsnap.c
+linking shared-object bootsnap/bootsnap.bundle
+
+current directory: /Users/k_nami/Documents/rails/markdown_sample/vendor/bundle/ruby/2.6.0/gems/bootsnap-1.4.8/ext/bootsnap
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 bootsnap.bundle ./.gem.20200820-2060-11k5ull/bootsnap
